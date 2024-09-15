@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Work-Manager and BuddyBooker<br>👯 I’m looking to collaborate on Web dev<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning NextJs and RubyonRails<br>💬 Ask me about Web Dev<br>⚡ Fun fact: idk
+🔭 I’m currently learning SringBoot and building my startup MVP in Nextjs<br>👯 I’m looking to collaborate on Web dev Projects<br>🤝 I’m looking for Fullstack roles<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Web Dev<br>⚡ GOD's PLAN BABY
 
 
 ## 🌐 Socials:

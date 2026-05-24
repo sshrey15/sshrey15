@@ -27,18 +27,18 @@ decision was mine — from database schema to deployment pipeline.
 
 ## Featured projects
 
-**[Penzo](#)** — Next.js · Firebase · OpenAI
+**[Penzo](https://penzo.in)** — Next.js · Firebase · OpenAI
 AI-powered blog platform with smart writing assistance, built from scratch as founding engineer.
 
-**[340 RealEstate](#)** — React · Redux · Firebase
+**[340 RealEstate](https://340realestate.com/home)** — React · Redux · Firebase
 Property rental platform for a US client managing 340+ listings, with a custom admin dashboard
 that lets non-technical staff manage content independently.
 
-**[SelfCruz](#)** — React · Node.js · Express · MongoDB · AWS EC2
+**[SelfCruz](https://www.selfcruz.com/)** — React · Node.js · Express · MongoDB · AWS EC2
 Full-stack vehicle rental platform with end-to-end booking flow, JWT auth, and role-based access
 control. Backend on EC2, frontend on Vercel.
 
-**[Nuvoraa Landing Page](#)** — Next.js · TailwindCSS
+**[Nuvoraa Landing Page](https://www.nuvoraa.com/)** — Next.js · TailwindCSS
 High-performance marketing site built with SSG, pixel-perfect from Figma, strong SEO fundamentals.
 
 ---

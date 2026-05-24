@@ -1,29 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently learning SringBoot and building my startup MVP in Nextjs<br>👯 I’m looking to collaborate on Web dev Projects<br>🤝 I’m looking for Fullstack roles<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Web Dev<br>⚡ GOD's PLAN BABY
+# Hey, I'm Shrey 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sshreysingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sshrey15) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sshrey15&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sshrey15&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sshrey15&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sshrey15&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sshrey15&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-
+Final-year Computer Engineering student at Goa Engineering College. I build full-stack web apps
+and have shipped production-grade platforms for real clients across India, the UAE, and the US.
+Actively looking for SDE / frontend / full-stack roles.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sshrey15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm building right now
+
+**Penzo — AI-powered blog platform**
+
+My most ambitious solo project. Built the entire system from scratch: Next.js SSR frontend,
+Firebase for auth and Firestore, and OpenAI API for smart writing assistance. Every architectural
+decision was mine — from database schema to deployment pipeline.
+
+---
+
+## Background
+
+- 1+ year of internship and freelance experience shipping real products for real clients
+- Interned at The Unmarketing Agency (UAE marketplace) and Blue Bagels (CRO, France/remote)
+- Founding engineer on multiple freelance projects across India, UAE, and the US
+- CGPA: 8.00 | GEC Ponda, Goa
+
+---
+
+## Featured projects
+
+**[Penzo](#)** — Next.js · Firebase · OpenAI
+AI-powered blog platform with smart writing assistance, built from scratch as founding engineer.
+
+**[340 RealEstate](#)** — React · Redux · Firebase
+Property rental platform for a US client managing 340+ listings, with a custom admin dashboard
+that lets non-technical staff manage content independently.
+
+**[SelfCruz](#)** — React · Node.js · Express · MongoDB · AWS EC2
+Full-stack vehicle rental platform with end-to-end booking flow, JWT auth, and role-based access
+control. Backend on EC2, frontend on Vercel.
+
+**[Nuvoraa Landing Page](#)** — Next.js · TailwindCSS
+High-performance marketing site built with SSG, pixel-perfect from Figma, strong SEO fundamentals.
+
+---
+
+## Let's connect
+
+📧 sshrey844@gmail.com · 🌐 [shreysingh.vercel.app](https://shreysingh.vercel.app) · 🔗 [LinkedIn](https://linkedin.com/in/sshrey15) · 🐙 [GitHub](https://github.com/sshrey15)
+
+Open to SDE, frontend, or full-stack roles — available now.
